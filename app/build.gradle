@@ -1,0 +1,82 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
+apply plugin: 'kotlin-kapt'
+
+android {
+    compileSdkVersion app_compileSdkVersion
+    defaultConfig {
+        applicationId "com.littlegnal.tinklabstest"
+        minSdkVersion app_minSdkVersion
+        targetSdkVersion app_targetSdkVersion
+        versionCode 1
+        versionName app_versionName
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    // kotlin
+    implementation libraries.kotlin_stdlib_jdk7
+    implementation libraries.kotlin_reflect
+    // support lib
+    implementation libraries.support_appcompat_v7
+    implementation libraries.support_design
+    implementation libraries.support_v4
+    implementation libraries.support_annotations
+    // rxjava
+    implementation libraries.rxjava2
+    implementation libraries.rxandroid2
+    // architecture components
+    implementation libraries.arch_lifecycle_extensions
+    implementation libraries.arch_room
+    kapt libraries.arch_room_compiler
+    implementation libraries.arch_room_rxjava2
+    // dagger2
+    implementation libraries.dagger2
+    implementation libraries.dagger2_android
+    implementation libraries.dagger2_android_support
+    kapt libraries.dagger2_compiler
+    kapt libraries.dagger2_android_compiler
+    implementation libraries.constraintlayout
+    // timber
+    implementation libraries.timber
+    // rxbinding
+    implementation libraries.rxbinding_support_v4
+    implementation libraries.rxbinding_recyclerview
+    // retrofit
+    implementation libraries.retrofit
+    implementation libraries.retrofit_adapter_rxjava2
+    implementation libraries.moshi_converter
+    // moshi
+    implementation libraries.moshi_kotlin
+    // epoxy
+    implementation libraries.epoxy
+    kapt libraries.epoxy_compiler
+    // picasso
+    implementation libraries.picasso
+    implementation libraries.picasso2_okhttp3_downloader
+
+    // stetho
+    debugImplementation libraries.stetho
+    debugImplementation libraries.stetho_okhttp3
+    // leakcanary
+    debugImplementation libraries.leakcanary
+    // okhttp3 logging
+    debugImplementation libraries.okhttp3_logging_interceptor
+
+    testImplementation test.junit
+    testImplementation test.mockito
+    testImplementation test.arch_room_testing
+
+    androidTestImplementation test.runner
+    androidTestImplementation test.junit
+    androidTestImplementation test.arch_room_testing
+    androidTestImplementation test.espresso_core
+}

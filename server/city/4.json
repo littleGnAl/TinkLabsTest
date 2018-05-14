@@ -1,0 +1,16 @@
+[
+    {
+        "id" : 16,
+        "type" : 1000,
+        "imgUrl" : "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526239130896&di=20eb5c3aeebc272625841456b29b0243&imgtype=0&src=http%3A%2F%2Fpic1.win4000.com%2Fwallpaper%2F7%2F52b0313db95c6.jpg",
+        "title" : "City 16",
+        "description" : "Here is City 16!"
+    },
+    {
+        "id" : 17,
+        "type" : 1000,
+        "imgUrl" : "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526239130895&di=619e7fea8f69f64c2fbb352189d05d82&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimage%2Fc0%253Dshijue1%252C0%252C0%252C294%252C40%2Fsign%3De54ab482a3014c080d3620e66212687d%2F6f061d950a7b0208779a06ca68d9f2d3572cc84d.jpg",
+        "title" : "City 17",
+        "description" : "Here is City 17!"
+    }
+]

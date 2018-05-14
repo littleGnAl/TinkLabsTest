@@ -1,0 +1,35 @@
+[
+    {
+        "id" : 1,
+        "type" : 1000,
+        "imgUrl" : "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526239425841&di=83ef2e4da66e62f3dc8a4f53233ab59d&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimgad%2Fpic%2Fitem%2Fcefc1e178a82b90161553b15788da9773912ef18.jpg",
+        "title" : "Shop 1",
+        "description" : "You can buy everything in Shop 1!"
+    },
+    {
+        "id" : 2,
+        "type" : 1000,
+        "imgUrl" : "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526239425841&di=f9320410bba758a5d497a8ce1d990806&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimage%2Fc0%253Dpixel_huitu%252C0%252C0%252C294%252C40%2Fsign%3D89fe54e31ece36d3b6098b70538b5feb%2F2fdda3cc7cd98d10d3a2a4082a3fb80e7bec9091.jpg",
+        "title" : "Shop 2",
+        "description" : "You can buy everything in Shop 2!"
+    },
+    {
+        "id" : 3,
+        "type" : 1001,
+        "imgUrl" : "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526239425841&di=f644c6b0e70f93580214e5597e6ce3a4&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimgad%2Fpic%2Fitem%2F1c950a7b02087bf411f29c3af8d3572c10dfcfc3.jpg"
+    },
+    {
+        "id" : 4,
+        "type" : 1000,
+        "imgUrl" : "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526239425841&di=5a0c980a9a9adb366164fe11a7cc256f&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimage%2Fc0%253Dpixel_huitu%252C0%252C0%252C294%252C40%2Fsign%3D81b0f964d6c451dae2fb04abdf85370a%2F79f0f736afc379319030e713e0c4b74543a911ab.jpg",
+        "title" : "Shop 4",
+        "description" : "You can buy everything in Shop 4!"
+    },
+    {
+        "id" : 5,
+        "type" : 1000,
+        "imgUrl" : "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526239425840&di=8687c2445d2c1146e7837d42b0d12f73&imgtype=0&src=http%3A%2F%2Fpic33.photophoto.cn%2F20141214%2F0041040066869377_b.jpg",
+        "title" : "Shop 5",
+        "description" : "You can buy everything in Shop 5!"
+    }
+]

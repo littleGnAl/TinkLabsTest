@@ -1,0 +1,35 @@
+[
+    {
+        "id" : 1,
+        "type" : 1000,
+        "imgUrl" : "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526239130898&di=10cb57e55697b4828c661f7b13b3a11f&imgtype=0&src=http%3A%2F%2Fpic23.nipic.com%2F20120908%2F10875648_113457629138_2.jpg",
+        "title" : "City 1",
+        "description" : "Here is City 1!"
+    },
+    {
+        "id" : 2,
+        "type" : 1000,
+        "imgUrl" : "https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1841976150,1348069787&fm=27&gp=0.jpg",
+        "title" : "City 2",
+        "description" : "Here is City 2!"
+    },
+    {
+        "id" : 3,
+        "type" : 1001,
+        "imgUrl" : "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526239130898&di=2ef4eab626d375fc99cf2546eedc37a0&imgtype=0&src=http%3A%2F%2Fwww.fansimg.com%2Fuploads2016%2F09%2Fuserid510793time20160831213457.jpg"
+    },
+    {
+        "id" : 4,
+        "type" : 1000,
+        "imgUrl" : "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526239130898&di=28f5aaaf8bba2f40871e4170f177ab91&imgtype=0&src=http%3A%2F%2Fimg05.tooopen.com%2Fimages%2F20141107%2Fsy_74337811979.jpg",
+        "title" : "City 4",
+        "description" : "Here is City 4!"
+    },
+    {
+        "id" : 5,
+        "type" : 1000,
+        "imgUrl" : "https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2545940598,342459016&fm=200&gp=0.jpg",
+        "title" : "City 5",
+        "description" : "Here is City 5!"
+    }
+]

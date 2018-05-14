@@ -1,0 +1,35 @@
+[
+    {
+        "id" : 6,
+        "type" : 1000,
+        "imgUrl" : "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526239130897&di=76988c8e29425c192bd4a544b06830ed&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimgad%2Fpic%2Fitem%2Fcf1b9d16fdfaaf5134f20b9a865494eef01f7a86.jpg",
+        "title" : "City 6",
+        "description" : "Here is City 1!"
+    },
+    {
+        "id" : 7,
+        "type" : 1000,
+        "imgUrl" : "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526239130897&di=25ae770a8d2b6e609dfe13b1e494926d&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimgad%2Fpic%2Fitem%2F6609c93d70cf3bc7f612b5e4db00baa1cd112aa3.jpg",
+        "title" : "City 7",
+        "description" : "Here is City 7!"
+    },
+    {
+        "id" : 8,
+        "type" : 1001,
+        "imgUrl" : "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526239130897&di=fc7ec35ab586d5aad171a792e0636673&imgtype=0&src=http%3A%2F%2Fimgsrc.baidu.com%2Fimgad%2Fpic%2Fitem%2Fdcc451da81cb39db473c8da5da160924aa183041.jpg"
+    },
+    {
+        "id" : 9,
+        "type" : 1000,
+        "imgUrl" : "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526239238798&di=fc186c355e4a3d2143cf39f19c880691&imgtype=jpg&src=http%3A%2F%2Fimg3.imgtn.bdimg.com%2Fit%2Fu%3D1672421228%2C2652292127%26fm%3D214%26gp%3D0.jpg",
+        "title" : "City 9",
+        "description" : "Here is City 9!"
+    },
+    {
+        "id" : 10,
+        "type" : 1000,
+        "imgUrl" : "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1526239130897&di=ccd4e8dfe20089e995a7d3ec90f679ee&imgtype=0&src=http%3A%2F%2Fimg07.tooopen.com%2Fimages%2F20170218%2Ftooopen_sy_199001652512.jpg",
+        "title" : "City 10",
+        "description" : "Here is City 10!"
+    }
+]
